@@ -1,0 +1,5 @@
+# gitignore
+# ignore all *.exe files
+*.exe
+# ignore all *.vscode files
+*.vscode
